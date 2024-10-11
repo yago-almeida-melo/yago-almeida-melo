@@ -36,7 +36,6 @@ I'm a developer passionate about technology and programming. I have experience i
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/yago-almeida-melo/) [Gmail](mailto:yagoalmeidamelo27102004@gmail.com).
 
----
 
-<div style="width:100%;height:0;padding-bottom:79%;position:relative;"><iframe src="https://giphy.com/embed/93UOscPyDH8cdRfSaT" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ProductDock-programming-rules-productdock-93UOscPyDH8cdRfSaT">via GIPHY</a></p>
+
 

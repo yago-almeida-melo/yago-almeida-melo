@@ -34,7 +34,7 @@ I'm a developer passionate about technology and programming. I have experience i
 
 ## 📫 Contact
 
-You can reach me on [LinkedIn](https://www.linkedin.com/in/yago-almeida-melo/).
+You can reach me on [LinkedIn](https://www.linkedin.com/in/yago-almeida-melo/) [Gmail](mailto:yagoalmeidamelo27102004@gmail.com).
 
 ---
 

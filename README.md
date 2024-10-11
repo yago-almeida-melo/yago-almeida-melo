@@ -38,5 +38,5 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/yago-almeida-melo/) [
 
 ---
 
-![Coding](<iframe src="https://giphy.com/embed/93UOscPyDH8cdRfSaT" width="480" height="379" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ProductDock-programming-rules-productdock-93UOscPyDH8cdRfSaT">via GIPHY</a></p>)
+![Coding](https://tenor.com/pt-BR/view/coding-developer-code-hacking-computer-coding-cyber-coding-gif-18350732)
 

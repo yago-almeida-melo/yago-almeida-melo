@@ -4,7 +4,8 @@
 
 ### `Desenvolvedor em Evolução Constante`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=0000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Keep,;Calm;and CODE!!!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=0&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Keep,;Calm;and+CODE!!!" alt="Typing SVG" />
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yago-almeida-melo&label=Visitantes&color=58A6FF&style=for-the-badge" alt="Profile views" />
@@ -35,11 +36,13 @@ const yago = {
 };
 ```
 
+
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yago-almeida-melo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yago-almeida-melo&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yago-almeida-melo&theme=github_dark" />
+
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yago-almeida-melo&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">

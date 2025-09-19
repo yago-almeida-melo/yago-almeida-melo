@@ -2,7 +2,7 @@
 
 # 👨‍💻 Yago Almeida Melo
 
-### `Desenvolvedor Full Stack em Evolução Constante`
+### `Desenvolvedor em Evolução Constante`
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=0000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Keep,;Calm;and CODE!!!" alt="Typing SVG" />
 
